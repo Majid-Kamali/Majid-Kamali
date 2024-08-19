@@ -1,4 +1,4 @@
-> Hi there , I'm Majid Kamali Front End and Backend Developer👋
+> Hi there , I'm Majid Kamali Front-End and Back-End Developer👋
 ---
 ### **Skills / Languages**
 - 👯  ```<? php ?>``` not bad
