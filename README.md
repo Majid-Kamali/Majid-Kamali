@@ -1,4 +1,10 @@
-> Hi there , I'm Majid Kamali Front-End and Back-End Developer👋
+> Hi there , I'm Majid Kamali 👋
+
+ ### 👨‍💻 &nbsp;  About Me
+   - Working as Front-End and Back-End  developer
+   - Learning React js  
+   - Coding and exercise are my hobby
+
 ---
 ### **Skills / Languages**
 - 👯  ```<? php ?>``` not bad
